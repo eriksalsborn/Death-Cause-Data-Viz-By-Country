@@ -4,7 +4,9 @@
 
 This repository includes a Jupyter Notebook (.ipynb) file showcasing the process of importing datasets and creating visualizations for death causes by country on a geographic plot. The notebook leverages Python and popular libraries such as Pandas, Altair, Seaborn, and NumPy for effective data manipulation and visualization.
 
-Furthermore, the repository incorporates .html files containing the finalized plots. Open these files for convenient access to the visualizations or alternatively, use the notebook for a more detailed exploration of the data.
+Furthermore, the repository incorporates .html files containing the finalized plots, as can be seen in the .gif in this README. Open these files for convenient access to the visualizations or alternatively, use the notebook for a more detailed exploration of the data.
+
+This project was done in collaboration with Anders Lundkvist.
 
 # Introduction 
 

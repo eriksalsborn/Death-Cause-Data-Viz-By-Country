@@ -12,11 +12,11 @@ In low- and middle-income countries, mortality rates attributed to infectious di
 
 The visualization can be used to address the following questions:
 
-1. What are the most common death cause reasons by country?
-2. Are ther any correlation between geographihal place and type of deaths?
+1. What are the most common causes of death by country?
+2. Is there any correlation between geographical location and types of deaths?
 
 # Datasets
 
-The main dataset contains the death causes by all genders and by all age groups by country. Additionally, three smaller datasets containing information on country populations, coordinates, and continents were utilized.
+The primary dataset includes information on causes of death across all genders and age groups, categorized by country. Additionally, three supplementary datasets providing details on country populations, coordinates, and continents were employed. 
 
-The main dataset was collected from: https://www.who.int/, the World Health Organization
+The main dataset was sourced from the World Health Organization (WHO) website: https://www.who.int/.
